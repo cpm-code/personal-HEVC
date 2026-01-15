@@ -14,4 +14,4 @@ Also note this build is for Amlogic S922X SoC.
 -  Kodi Piers (CoreELEC 22 - LibreELEC tracking base)
 -  My changes refactored for Kodi Piers, plus my other fixes from over the last few months
 -  Couple of fixes from @avdvplus, includes LAV work from @SamuriHL, but not incorporating other new features like dv processor
--  Amlogic 4.9-20 Kernel
+-  Amlogic 4.9 Kernel
