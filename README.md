@@ -18,5 +18,5 @@ Also note this build is for Amlogic S922X SoC.
 
 2026-01-30 
 - Upstream tracking changes
-- Peronal work, including HDR PGS
+- Personal work, including HDR PGS
 - Additional cherry picks from @avdvplus, background ops idea @MasterKeyxda
