@@ -10,8 +10,13 @@ It is at my own pace and would expect any good/useful features to make it into t
 
 Also note this build is for Amlogic S922X SoC.
 
-2026-14-01 Initial planned release (2026-Jan)
+2026-01-14 Initial planned release (2026-Jan)
 -  Kodi Piers (CoreELEC 22 - LibreELEC tracking base)
 -  My changes refactored for Kodi Piers, plus my other fixes from over the last few months
 -  Couple of fixes from @avdvplus, includes LAV work from @SamuriHL, but not incorporating other new features like dv processor
 -  Amlogic 4.9 Kernel
+
+2026-01-30 
+- Upstream tracking changes
+- Peronal work, including HDR PGS
+- Additional cherry picks from @avdvplus, background ops idea @MasterKeyxda
