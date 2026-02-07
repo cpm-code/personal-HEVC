@@ -27,3 +27,6 @@ Also note this build is for Amlogic S922X SoC.
 2026-02-06
 - minor fixes from ongoing git series restructing for upgrades - expect to complete within a few weeks/month spare time permitting.
 - attempts to keep video ready just before vsync, but looks to cause OSD tearing sometimes (likley effects moving subtitles - can try pause and play to get better phase)
+
+2026-02-07
+- DTS-HD MA testing
