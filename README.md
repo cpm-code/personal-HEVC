@@ -30,3 +30,6 @@ Also note this build is for Amlogic S922X SoC.
 
 2026-02-07
 - DTS-HD MA testing
+
+2026-02-08
+- Build from public heads, minor improvements and fixes, significantly reduce intensity of red in CoreELEC logo for OLED burn in risk
