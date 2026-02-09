@@ -33,3 +33,7 @@ Also note this build is for Amlogic S922X SoC.
 
 2026-02-08
 - Build from public heads, minor improvements and fixes, significantly reduce intensity of red in CoreELEC logo for OLED burn in risk
+
+2026-02-09
+- Dialogue Normalisation for True HD Atmos fix to -31 (Testing)
+- info <general>: CAEStreamParser::SyncTrueHD: TrueHD Atmos stream detected 8 channels, 48000Hz, 24-bit, dialNorm: -31 dB (patched from -27 dB), atmosChannels: 14
