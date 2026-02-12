@@ -43,4 +43,4 @@ Also note this build is for Amlogic S922X SoC.
 - Refresh to latest upstream heads
 - Reduce Delta of sync ng (WIP)
 - Minor fixes and enhancements
-- Most notable user experience change is effective instant skipping, no decernable gap, MAT audio passthough still takes a little time to re-engage, FEL blanking has been fixed for a while, this tightneas eveything up.
+- Most notable user experience change is effective instant skipping, no decernable gap, MAT audio passthough still takes a little time to re-engage, FEL blanking has been fixed for a while, this tightens eveything up.
