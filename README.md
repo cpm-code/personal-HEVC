@@ -36,3 +36,11 @@ Also note this build is for Amlogic S922X SoC.
 
 2026-02-09
 - Dialogue Normalisation for True HD Atmos fix to -31 [0 dB] (Testing)
+
+2026-02-12
+- Dialouge Normalisation for AC3/EAC3 fix to -31 [0 dB] (Testing)
+- UI for Dolby Dialogue Normalisation defeat
+- Refresh to latest upstream heads
+- Reduce Delta of sync ng (WIP)
+- Minor fixes and enhancements
+- Most notable user experience change is effective instant skipping, no decernable gap, MAT audio passthough still takes a little time to re-engage, FEL blanking has been fixed for a while, this tightneas eveything up.
