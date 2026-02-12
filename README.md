@@ -38,7 +38,7 @@ Also note this build is for Amlogic S922X SoC.
 - Dialogue Normalisation for True HD Atmos fix to -31 [0 dB] (Testing)
 
 2026-02-12
-- Dialouge Normalisation for AC3/EAC3 fix to -31 [0 dB] (Testing)
+- Dialogue Normalisation for AC3/EAC3 fix to -31 [0 dB] (Testing)
 - UI for Dolby Dialogue Normalisation defeat
 - Refresh to latest upstream heads
 - Reduce Delta of sync ng (WIP)
